@@ -1,0 +1,15 @@
+C:\Users\Opiskelija\source\repos\ohjelmistokehittaja\projekti1\Omanimi\bin\Debug\net6.0\Omanimi.exe
+C:\Users\Opiskelija\source\repos\ohjelmistokehittaja\projekti1\Omanimi\bin\Debug\net6.0\Omanimi.deps.json
+C:\Users\Opiskelija\source\repos\ohjelmistokehittaja\projekti1\Omanimi\bin\Debug\net6.0\Omanimi.runtimeconfig.json
+C:\Users\Opiskelija\source\repos\ohjelmistokehittaja\projekti1\Omanimi\bin\Debug\net6.0\Omanimi.dll
+C:\Users\Opiskelija\source\repos\ohjelmistokehittaja\projekti1\Omanimi\bin\Debug\net6.0\Omanimi.pdb
+C:\Users\Opiskelija\source\repos\ohjelmistokehittaja\projekti1\Omanimi\obj\Debug\net6.0\Omanimi.csproj.AssemblyReference.cache
+C:\Users\Opiskelija\source\repos\ohjelmistokehittaja\projekti1\Omanimi\obj\Debug\net6.0\Omanimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Opiskelija\source\repos\ohjelmistokehittaja\projekti1\Omanimi\obj\Debug\net6.0\Omanimi.AssemblyInfoInputs.cache
+C:\Users\Opiskelija\source\repos\ohjelmistokehittaja\projekti1\Omanimi\obj\Debug\net6.0\Omanimi.AssemblyInfo.cs
+C:\Users\Opiskelija\source\repos\ohjelmistokehittaja\projekti1\Omanimi\obj\Debug\net6.0\Omanimi.csproj.CoreCompileInputs.cache
+C:\Users\Opiskelija\source\repos\ohjelmistokehittaja\projekti1\Omanimi\obj\Debug\net6.0\Omanimi.dll
+C:\Users\Opiskelija\source\repos\ohjelmistokehittaja\projekti1\Omanimi\obj\Debug\net6.0\refint\Omanimi.dll
+C:\Users\Opiskelija\source\repos\ohjelmistokehittaja\projekti1\Omanimi\obj\Debug\net6.0\Omanimi.pdb
+C:\Users\Opiskelija\source\repos\ohjelmistokehittaja\projekti1\Omanimi\obj\Debug\net6.0\Omanimi.genruntimeconfig.cache
+C:\Users\Opiskelija\source\repos\ohjelmistokehittaja\projekti1\Omanimi\obj\Debug\net6.0\ref\Omanimi.dll
