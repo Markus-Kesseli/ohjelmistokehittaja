@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Omanimi
-build_property.ProjectDir = C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\Omanimi\
+build_property.RootNamespace = Laske
+build_property.ProjectDir = C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\Laske\

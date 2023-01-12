@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marku\\Source\\Repos\\ohjelmistokehittaja\\projekti1\\Aika\\Aika.csproj",
-      "projectName": "Aika",
-      "projectPath": "C:\\Users\\marku\\Source\\Repos\\ohjelmistokehittaja\\projekti1\\Aika\\Aika.csproj",
+      "projectUniqueName": "C:\\Users\\marku\\Source\\Repos\\ohjelmistokehittaja\\projekti1\\Laske\\Laske.csproj",
+      "projectName": "Laske",
+      "projectPath": "C:\\Users\\marku\\Source\\Repos\\ohjelmistokehittaja\\projekti1\\Laske\\Laske.csproj",
       "packagesPath": "C:\\Users\\marku\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marku\\Source\\Repos\\ohjelmistokehittaja\\projekti1\\Aika\\obj\\",
+      "outputPath": "C:\\Users\\marku\\Source\\Repos\\ohjelmistokehittaja\\projekti1\\Laske\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

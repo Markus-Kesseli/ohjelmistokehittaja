@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Opiskelija\\source\\repos\\ohjelmistokehittaja\\projekti1\\Aika\\Aika.csproj": {}
+    "C:\\Users\\marku\\Source\\Repos\\ohjelmistokehittaja\\projekti1\\Aika\\Aika.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Opiskelija\\source\\repos\\ohjelmistokehittaja\\projekti1\\Aika\\Aika.csproj": {
+    "C:\\Users\\marku\\Source\\Repos\\ohjelmistokehittaja\\projekti1\\Aika\\Aika.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Opiskelija\\source\\repos\\ohjelmistokehittaja\\projekti1\\Aika\\Aika.csproj",
+        "projectUniqueName": "C:\\Users\\marku\\Source\\Repos\\ohjelmistokehittaja\\projekti1\\Aika\\Aika.csproj",
         "projectName": "Aika",
-        "projectPath": "C:\\Users\\Opiskelija\\source\\repos\\ohjelmistokehittaja\\projekti1\\Aika\\Aika.csproj",
-        "packagesPath": "C:\\Users\\Opiskelija\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Opiskelija\\source\\repos\\ohjelmistokehittaja\\projekti1\\Aika\\obj\\",
+        "projectPath": "C:\\Users\\marku\\Source\\Repos\\ohjelmistokehittaja\\projekti1\\Aika\\Aika.csproj",
+        "packagesPath": "C:\\Users\\marku\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marku\\Source\\Repos\\ohjelmistokehittaja\\projekti1\\Aika\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Opiskelija\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marku\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
