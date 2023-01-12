@@ -1,0 +1,15 @@
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\Laske\bin\Debug\net6.0\Laske.exe
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\Laske\bin\Debug\net6.0\Laske.deps.json
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\Laske\bin\Debug\net6.0\Laske.runtimeconfig.json
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\Laske\bin\Debug\net6.0\Laske.dll
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\Laske\bin\Debug\net6.0\Laske.pdb
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\Laske\obj\Debug\net6.0\Laske.csproj.AssemblyReference.cache
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\Laske\obj\Debug\net6.0\Laske.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\Laske\obj\Debug\net6.0\Laske.AssemblyInfoInputs.cache
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\Laske\obj\Debug\net6.0\Laske.AssemblyInfo.cs
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\Laske\obj\Debug\net6.0\Laske.csproj.CoreCompileInputs.cache
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\Laske\obj\Debug\net6.0\Laske.dll
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\Laske\obj\Debug\net6.0\refint\Laske.dll
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\Laske\obj\Debug\net6.0\Laske.pdb
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\Laske\obj\Debug\net6.0\Laske.genruntimeconfig.cache
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\Laske\obj\Debug\net6.0\ref\Laske.dll
