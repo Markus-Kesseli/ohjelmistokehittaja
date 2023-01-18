@@ -1,0 +1,15 @@
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\5suurinta\bin\Debug\net6.0\5suurinta.exe
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\5suurinta\bin\Debug\net6.0\5suurinta.deps.json
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\5suurinta\bin\Debug\net6.0\5suurinta.runtimeconfig.json
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\5suurinta\bin\Debug\net6.0\5suurinta.dll
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\5suurinta\bin\Debug\net6.0\5suurinta.pdb
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\5suurinta\obj\Debug\net6.0\5suurinta.csproj.AssemblyReference.cache
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\5suurinta\obj\Debug\net6.0\5suurinta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\5suurinta\obj\Debug\net6.0\5suurinta.AssemblyInfoInputs.cache
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\5suurinta\obj\Debug\net6.0\5suurinta.AssemblyInfo.cs
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\5suurinta\obj\Debug\net6.0\5suurinta.csproj.CoreCompileInputs.cache
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\5suurinta\obj\Debug\net6.0\5suurinta.dll
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\5suurinta\obj\Debug\net6.0\refint\5suurinta.dll
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\5suurinta\obj\Debug\net6.0\5suurinta.pdb
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\5suurinta\obj\Debug\net6.0\5suurinta.genruntimeconfig.cache
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\5suurinta\obj\Debug\net6.0\ref\5suurinta.dll
