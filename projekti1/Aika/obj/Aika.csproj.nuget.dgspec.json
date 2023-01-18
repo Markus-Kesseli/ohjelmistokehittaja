@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marku\\Source\\Repos\\ohjelmistokehittaja\\projekti1\\Aika\\Aika.csproj": {}
+    "C:\\Users\\marku\\source\\repos\\ohjelmistokehittaja\\projekti1\\Aika\\Aika.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marku\\Source\\Repos\\ohjelmistokehittaja\\projekti1\\Aika\\Aika.csproj": {
+    "C:\\Users\\marku\\source\\repos\\ohjelmistokehittaja\\projekti1\\Aika\\Aika.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marku\\Source\\Repos\\ohjelmistokehittaja\\projekti1\\Aika\\Aika.csproj",
+        "projectUniqueName": "C:\\Users\\marku\\source\\repos\\ohjelmistokehittaja\\projekti1\\Aika\\Aika.csproj",
         "projectName": "Aika",
-        "projectPath": "C:\\Users\\marku\\Source\\Repos\\ohjelmistokehittaja\\projekti1\\Aika\\Aika.csproj",
+        "projectPath": "C:\\Users\\marku\\source\\repos\\ohjelmistokehittaja\\projekti1\\Aika\\Aika.csproj",
         "packagesPath": "C:\\Users\\marku\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\marku\\Source\\Repos\\ohjelmistokehittaja\\projekti1\\Aika\\obj\\",
         "projectStyle": "PackageReference",
