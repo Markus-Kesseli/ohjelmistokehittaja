@@ -1,0 +1,15 @@
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\bin\Debug\net6.0\kokonaisarvo.exe
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\bin\Debug\net6.0\kokonaisarvo.deps.json
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\bin\Debug\net6.0\kokonaisarvo.runtimeconfig.json
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\bin\Debug\net6.0\kokonaisarvo.dll
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\bin\Debug\net6.0\kokonaisarvo.pdb
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\kokonaisarvo.csproj.AssemblyReference.cache
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\kokonaisarvo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\kokonaisarvo.AssemblyInfoInputs.cache
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\kokonaisarvo.AssemblyInfo.cs
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\kokonaisarvo.csproj.CoreCompileInputs.cache
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\kokonaisarvo.dll
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\refint\kokonaisarvo.dll
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\kokonaisarvo.pdb
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\kokonaisarvo.genruntimeconfig.cache
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\ref\kokonaisarvo.dll

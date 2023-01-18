@@ -1,0 +1,15 @@
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\PERUSHARJOITUKSIA.csproj.AssemblyReference.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\PERUSHARJOITUKSIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\PERUSHARJOITUKSIA.AssemblyInfoInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\PERUSHARJOITUKSIA.AssemblyInfo.cs
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\PERUSHARJOITUKSIA.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\bin\Debug\net6.0\PERUSHARJOITUKSIA.exe
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\bin\Debug\net6.0\PERUSHARJOITUKSIA.deps.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\bin\Debug\net6.0\PERUSHARJOITUKSIA.runtimeconfig.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\bin\Debug\net6.0\PERUSHARJOITUKSIA.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\bin\Debug\net6.0\PERUSHARJOITUKSIA.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\PERUSHARJOITUKSIA.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\refint\PERUSHARJOITUKSIA.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\PERUSHARJOITUKSIA.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\PERUSHARJOITUKSIA.genruntimeconfig.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\ref\PERUSHARJOITUKSIA.dll

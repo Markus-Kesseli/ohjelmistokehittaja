@@ -1,0 +1,15 @@
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\suurinluku\bin\Debug\net6.0\suurinluku.exe
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\suurinluku\bin\Debug\net6.0\suurinluku.deps.json
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\suurinluku\bin\Debug\net6.0\suurinluku.runtimeconfig.json
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\suurinluku\bin\Debug\net6.0\suurinluku.dll
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\suurinluku\bin\Debug\net6.0\suurinluku.pdb
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\suurinluku\obj\Debug\net6.0\suurinluku.csproj.AssemblyReference.cache
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\suurinluku\obj\Debug\net6.0\suurinluku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\suurinluku\obj\Debug\net6.0\suurinluku.AssemblyInfoInputs.cache
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\suurinluku\obj\Debug\net6.0\suurinluku.AssemblyInfo.cs
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\suurinluku\obj\Debug\net6.0\suurinluku.csproj.CoreCompileInputs.cache
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\suurinluku\obj\Debug\net6.0\suurinluku.dll
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\suurinluku\obj\Debug\net6.0\refint\suurinluku.dll
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\suurinluku\obj\Debug\net6.0\suurinluku.pdb
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\suurinluku\obj\Debug\net6.0\suurinluku.genruntimeconfig.cache
+C:\Users\marku\Source\Repos\ohjelmistokehittaja\projekti1\suurinluku\obj\Debug\net6.0\ref\suurinluku.dll
