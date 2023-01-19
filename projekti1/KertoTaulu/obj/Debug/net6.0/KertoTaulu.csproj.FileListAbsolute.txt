@@ -1,0 +1,15 @@
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KertoTaulu\bin\Debug\net6.0\KertoTaulu.exe
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KertoTaulu\bin\Debug\net6.0\KertoTaulu.deps.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KertoTaulu\bin\Debug\net6.0\KertoTaulu.runtimeconfig.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KertoTaulu\bin\Debug\net6.0\KertoTaulu.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KertoTaulu\bin\Debug\net6.0\KertoTaulu.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KertoTaulu\obj\Debug\net6.0\KertoTaulu.csproj.AssemblyReference.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KertoTaulu\obj\Debug\net6.0\KertoTaulu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KertoTaulu\obj\Debug\net6.0\KertoTaulu.AssemblyInfoInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KertoTaulu\obj\Debug\net6.0\KertoTaulu.AssemblyInfo.cs
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KertoTaulu\obj\Debug\net6.0\KertoTaulu.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KertoTaulu\obj\Debug\net6.0\KertoTaulu.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KertoTaulu\obj\Debug\net6.0\refint\KertoTaulu.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KertoTaulu\obj\Debug\net6.0\KertoTaulu.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KertoTaulu\obj\Debug\net6.0\KertoTaulu.genruntimeconfig.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KertoTaulu\obj\Debug\net6.0\ref\KertoTaulu.dll

@@ -1,0 +1,15 @@
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Yhteenlasku\bin\Debug\net6.0\Yhteenlasku.exe
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Yhteenlasku\bin\Debug\net6.0\Yhteenlasku.deps.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Yhteenlasku\bin\Debug\net6.0\Yhteenlasku.runtimeconfig.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Yhteenlasku\bin\Debug\net6.0\Yhteenlasku.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Yhteenlasku\bin\Debug\net6.0\Yhteenlasku.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Yhteenlasku\obj\Debug\net6.0\Yhteenlasku.csproj.AssemblyReference.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Yhteenlasku\obj\Debug\net6.0\Yhteenlasku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Yhteenlasku\obj\Debug\net6.0\Yhteenlasku.AssemblyInfoInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Yhteenlasku\obj\Debug\net6.0\Yhteenlasku.AssemblyInfo.cs
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Yhteenlasku\obj\Debug\net6.0\Yhteenlasku.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Yhteenlasku\obj\Debug\net6.0\Yhteenlasku.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Yhteenlasku\obj\Debug\net6.0\refint\Yhteenlasku.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Yhteenlasku\obj\Debug\net6.0\Yhteenlasku.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Yhteenlasku\obj\Debug\net6.0\Yhteenlasku.genruntimeconfig.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Yhteenlasku\obj\Debug\net6.0\ref\Yhteenlasku.dll

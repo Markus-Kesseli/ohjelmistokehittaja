@@ -1,0 +1,15 @@
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\CelciusFahrenheiteiksi\bin\Debug\net6.0\CelciusFahrenheiteiksi.exe
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\CelciusFahrenheiteiksi\bin\Debug\net6.0\CelciusFahrenheiteiksi.deps.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\CelciusFahrenheiteiksi\bin\Debug\net6.0\CelciusFahrenheiteiksi.runtimeconfig.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\CelciusFahrenheiteiksi\bin\Debug\net6.0\CelciusFahrenheiteiksi.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\CelciusFahrenheiteiksi\bin\Debug\net6.0\CelciusFahrenheiteiksi.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\CelciusFahrenheiteiksi\obj\Debug\net6.0\CelciusFahrenheiteiksi.csproj.AssemblyReference.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\CelciusFahrenheiteiksi\obj\Debug\net6.0\CelciusFahrenheiteiksi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\CelciusFahrenheiteiksi\obj\Debug\net6.0\CelciusFahrenheiteiksi.AssemblyInfoInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\CelciusFahrenheiteiksi\obj\Debug\net6.0\CelciusFahrenheiteiksi.AssemblyInfo.cs
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\CelciusFahrenheiteiksi\obj\Debug\net6.0\CelciusFahrenheiteiksi.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\CelciusFahrenheiteiksi\obj\Debug\net6.0\CelciusFahrenheiteiksi.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\CelciusFahrenheiteiksi\obj\Debug\net6.0\refint\CelciusFahrenheiteiksi.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\CelciusFahrenheiteiksi\obj\Debug\net6.0\CelciusFahrenheiteiksi.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\CelciusFahrenheiteiksi\obj\Debug\net6.0\CelciusFahrenheiteiksi.genruntimeconfig.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\CelciusFahrenheiteiksi\obj\Debug\net6.0\ref\CelciusFahrenheiteiksi.dll
