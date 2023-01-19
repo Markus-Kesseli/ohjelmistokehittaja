@@ -19,7 +19,10 @@
         Console.Write("Anna viides numero: ");
         j = Convert.ToInt32(Console.ReadLine());
 
-        
+        int isoin = Math.Max(x, Math.Max(y, Math.Max(z, Math.Max(i, j))));
+        Console.WriteLine("Isoin luku on: " + isoin);
+
+       
 
     }
 }

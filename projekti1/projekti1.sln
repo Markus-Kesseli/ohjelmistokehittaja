@@ -17,9 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ehtolause", "PERUSHARJOITUK
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "suurinluku", "suurinluku\suurinluku.csproj", "{BD63296F-AC65-4F6D-A485-924A380BFFFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lukusanaksi", "lukusanaksi\lukusanaksi.csproj", "{F4A36AE0-D378-46D9-B6B5-460958C5F490}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lukusanaksi", "lukusanaksi\lukusanaksi.csproj", "{F4A36AE0-D378-46D9-B6B5-460958C5F490}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5suurinta", "5suurinta\5suurinta.csproj", "{927BDFD8-E336-4941-8EB7-04DB1336892A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5suurinta", "5suurinta\5suurinta.csproj", "{927BDFD8-E336-4941-8EB7-04DB1336892A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuvutPisteiksi", "LuvutPisteiksi\LuvutPisteiksi.csproj", "{1AD85C0F-B447-45FE-85D8-6CB321CF239A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonusPisteet", "BonusPisteet\BonusPisteet.csproj", "{07AA94E2-C601-4AA6-9805-65277DB1D708}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{927BDFD8-E336-4941-8EB7-04DB1336892A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{927BDFD8-E336-4941-8EB7-04DB1336892A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{927BDFD8-E336-4941-8EB7-04DB1336892A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AD85C0F-B447-45FE-85D8-6CB321CF239A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD85C0F-B447-45FE-85D8-6CB321CF239A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD85C0F-B447-45FE-85D8-6CB321CF239A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD85C0F-B447-45FE-85D8-6CB321CF239A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07AA94E2-C601-4AA6-9805-65277DB1D708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07AA94E2-C601-4AA6-9805-65277DB1D708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07AA94E2-C601-4AA6-9805-65277DB1D708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07AA94E2-C601-4AA6-9805-65277DB1D708}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

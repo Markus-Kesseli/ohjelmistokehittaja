@@ -1,0 +1,15 @@
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\LuvutPisteiksi\bin\Debug\net6.0\LuvutPisteiksi.exe
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\LuvutPisteiksi\bin\Debug\net6.0\LuvutPisteiksi.deps.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\LuvutPisteiksi\bin\Debug\net6.0\LuvutPisteiksi.runtimeconfig.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\LuvutPisteiksi\bin\Debug\net6.0\LuvutPisteiksi.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\LuvutPisteiksi\bin\Debug\net6.0\LuvutPisteiksi.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\LuvutPisteiksi\obj\Debug\net6.0\LuvutPisteiksi.csproj.AssemblyReference.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\LuvutPisteiksi\obj\Debug\net6.0\LuvutPisteiksi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\LuvutPisteiksi\obj\Debug\net6.0\LuvutPisteiksi.AssemblyInfoInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\LuvutPisteiksi\obj\Debug\net6.0\LuvutPisteiksi.AssemblyInfo.cs
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\LuvutPisteiksi\obj\Debug\net6.0\LuvutPisteiksi.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\LuvutPisteiksi\obj\Debug\net6.0\LuvutPisteiksi.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\LuvutPisteiksi\obj\Debug\net6.0\refint\LuvutPisteiksi.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\LuvutPisteiksi\obj\Debug\net6.0\LuvutPisteiksi.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\LuvutPisteiksi\obj\Debug\net6.0\LuvutPisteiksi.genruntimeconfig.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\LuvutPisteiksi\obj\Debug\net6.0\ref\LuvutPisteiksi.dll

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marku\\Source\\Repos\\ohjelmistokehittaja\\projekti1\\PERUSHARJOITUKSIA\\ehtolause.csproj": {}
+    "C:\\Users\\marku\\source\\repos\\ohjelmistokehittaja\\projekti1\\PERUSHARJOITUKSIA\\ehtolause.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marku\\Source\\Repos\\ohjelmistokehittaja\\projekti1\\PERUSHARJOITUKSIA\\ehtolause.csproj": {
+    "C:\\Users\\marku\\source\\repos\\ohjelmistokehittaja\\projekti1\\PERUSHARJOITUKSIA\\ehtolause.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marku\\Source\\Repos\\ohjelmistokehittaja\\projekti1\\PERUSHARJOITUKSIA\\ehtolause.csproj",
+        "projectUniqueName": "C:\\Users\\marku\\source\\repos\\ohjelmistokehittaja\\projekti1\\PERUSHARJOITUKSIA\\ehtolause.csproj",
         "projectName": "ehtolause",
-        "projectPath": "C:\\Users\\marku\\Source\\Repos\\ohjelmistokehittaja\\projekti1\\PERUSHARJOITUKSIA\\ehtolause.csproj",
+        "projectPath": "C:\\Users\\marku\\source\\repos\\ohjelmistokehittaja\\projekti1\\PERUSHARJOITUKSIA\\ehtolause.csproj",
         "packagesPath": "C:\\Users\\marku\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\marku\\Source\\Repos\\ohjelmistokehittaja\\projekti1\\PERUSHARJOITUKSIA\\obj\\",
         "projectStyle": "PackageReference",

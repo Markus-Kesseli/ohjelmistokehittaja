@@ -1,0 +1,15 @@
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\BonusPisteet\bin\Debug\net6.0\BonusPisteet.exe
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\BonusPisteet\bin\Debug\net6.0\BonusPisteet.deps.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\BonusPisteet\bin\Debug\net6.0\BonusPisteet.runtimeconfig.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\BonusPisteet\bin\Debug\net6.0\BonusPisteet.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\BonusPisteet\bin\Debug\net6.0\BonusPisteet.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\BonusPisteet\obj\Debug\net6.0\BonusPisteet.csproj.AssemblyReference.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\BonusPisteet\obj\Debug\net6.0\BonusPisteet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\BonusPisteet\obj\Debug\net6.0\BonusPisteet.AssemblyInfoInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\BonusPisteet\obj\Debug\net6.0\BonusPisteet.AssemblyInfo.cs
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\BonusPisteet\obj\Debug\net6.0\BonusPisteet.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\BonusPisteet\obj\Debug\net6.0\BonusPisteet.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\BonusPisteet\obj\Debug\net6.0\refint\BonusPisteet.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\BonusPisteet\obj\Debug\net6.0\BonusPisteet.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\BonusPisteet\obj\Debug\net6.0\BonusPisteet.genruntimeconfig.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\BonusPisteet\obj\Debug\net6.0\ref\BonusPisteet.dll
