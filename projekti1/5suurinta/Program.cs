@@ -2,9 +2,9 @@
 {
     private static void Main(string[] args)
     {
-        int x, y, z, i, j;
+        int x, y, z, i, j; //tässä otamme käyttöön muuttujat
 
-        Console.Write("Anna ensimmäinen numero: ");
+        Console.Write("Anna ensimmäinen numero: "); //tässä pyydemmä käyttäjää antamaan jonkin arvon
         x = Convert.ToInt32(Console.ReadLine());
 
         Console.Write("Anna toinen numero: ");
@@ -19,8 +19,8 @@
         Console.Write("Anna viides numero: ");
         j = Convert.ToInt32(Console.ReadLine());
 
-        int isoin = Math.Max(x, Math.Max(y, Math.Max(z, Math.Max(i, j))));
-        Console.WriteLine("Isoin luku on: " + isoin);
+        int isoin = Math.Max(x, Math.Max(y, Math.Max(z, Math.Max(i, j)))); //tässä otamme käyttöön sekä määritämme muuttujan
+        Console.WriteLine("Isoin luku on: " + isoin); //tässä tulostamme konsoliin käyttäjälle lasketun arvon
 
        
 

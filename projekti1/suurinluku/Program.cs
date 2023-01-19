@@ -2,10 +2,10 @@
 {
     private static void Main(string[] args)
     {
-        int x, y, z;
+        int x, y, z; //otamme muuttujat käyttöön
 
-        Console.Write("Anna ensimmäinen luku: ");
-        x = Convert.ToInt32(Console.ReadLine());
+        Console.Write("Anna ensimmäinen luku: "); //tässä pyydämme käyttäjää syöttämään arvot
+        x = Convert.ToInt32(Console.ReadLine()); //tässä muutamme stringin integeriksi
 
         Console.Write("Anna toinen luku: ");
         y = Convert.ToInt32(Console.ReadLine());
@@ -13,11 +13,11 @@
         Console.Write("Anna kolmas luku: ");
         z = Convert.ToInt32(Console.ReadLine());
 
-        if (x > y)
+        if (x > y) //tässä vertaamme kumpi muuttuja on isompi
         {
             if (x > z)
             {
-                Console.Write(x + " on suurin.");
+                Console.Write(x + " on suurin."); //tässä tulostamme isomman muuttujan konsoliin
             }
             else
             {

@@ -4,13 +4,14 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        int x;
-        Console.Write("Anna numero 0-9 väliltä: ");
-        x = Convert.ToInt32(Console.ReadLine());
+        int x; //tässä otamme käyttöön muuttujan
 
-        switch (x) 
+        Console.Write("Anna numero 0-9 väliltä: "); //tässä pyydämme käyttäjää syöttämään jonkin arvon
+        x = Convert.ToInt32(Console.ReadLine()); //tässä muutamme stringin integeriksi
+
+        switch (x) //tässä annamme x muuttujalle eri arvoja.
         {
-            case 0: Console.WriteLine("nolla");
+            case 0: Console.WriteLine("nolla"); //tässä voimme tulostaa konsoliin muuttujan tietyn arvon annettuna
                 break;
 
             case 1: Console.WriteLine("yksi");
@@ -41,7 +42,7 @@ internal class Program
                 break;
 
             default:
-                Console.WriteLine("Anna luku 0-9 väliltä!");
+                Console.WriteLine("Anna luku 0-9 väliltä!"); //tässä tulostamme konsoliin huomautuksen jos arvo ei ole 0-9 välillä.
                 break;
 
 

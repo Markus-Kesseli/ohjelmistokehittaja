@@ -1,0 +1,15 @@
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\IkaKertoja\bin\Debug\net6.0\IkaKertoja.exe
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\IkaKertoja\bin\Debug\net6.0\IkaKertoja.deps.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\IkaKertoja\bin\Debug\net6.0\IkaKertoja.runtimeconfig.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\IkaKertoja\bin\Debug\net6.0\IkaKertoja.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\IkaKertoja\bin\Debug\net6.0\IkaKertoja.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\IkaKertoja\obj\Debug\net6.0\IkaKertoja.csproj.AssemblyReference.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\IkaKertoja\obj\Debug\net6.0\IkaKertoja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\IkaKertoja\obj\Debug\net6.0\IkaKertoja.AssemblyInfoInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\IkaKertoja\obj\Debug\net6.0\IkaKertoja.AssemblyInfo.cs
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\IkaKertoja\obj\Debug\net6.0\IkaKertoja.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\IkaKertoja\obj\Debug\net6.0\IkaKertoja.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\IkaKertoja\obj\Debug\net6.0\refint\IkaKertoja.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\IkaKertoja\obj\Debug\net6.0\IkaKertoja.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\IkaKertoja\obj\Debug\net6.0\IkaKertoja.genruntimeconfig.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\IkaKertoja\obj\Debug\net6.0\ref\IkaKertoja.dll

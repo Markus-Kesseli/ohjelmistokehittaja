@@ -2,7 +2,7 @@
 {
     private static void Main(string[] args)
     {
-        //console.WriteLine komennolla saamme tulostettua konsoliin alutun tekstin.
+        //console.WriteLine komennolla saamme tulostettua konsoliin halutun tekstin.
         Console.WriteLine("1");
         Console.WriteLine("11");
         Console.WriteLine("101");
