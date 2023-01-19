@@ -2,7 +2,7 @@
 {
     private static void Main(string[] args)
     {
-        int x, y;
+        int x, y; //tässä otamme muuttujia käyttöön
 
         Console.Write("Anna ensimmäinen numero: "); //Tässä pyydetään käyttäjää syöttämään jokin arvo. 
         x = Convert.ToInt32(Console.ReadLine());
@@ -11,7 +11,7 @@
         y = Convert.ToInt32(Console.ReadLine());
 
 
-        var laske = x % y;
+        var laske = x % y; //tässä otamme muuttujan käyttöön sekä määrittelemme sille arvot
         
         
 
