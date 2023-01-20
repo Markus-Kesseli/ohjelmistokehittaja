@@ -1,0 +1,15 @@
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KokonaislukuTarkastus\bin\Debug\net6.0\KokonaislukuTarkastus.exe
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KokonaislukuTarkastus\bin\Debug\net6.0\KokonaislukuTarkastus.deps.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KokonaislukuTarkastus\bin\Debug\net6.0\KokonaislukuTarkastus.runtimeconfig.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KokonaislukuTarkastus\bin\Debug\net6.0\KokonaislukuTarkastus.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KokonaislukuTarkastus\bin\Debug\net6.0\KokonaislukuTarkastus.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KokonaislukuTarkastus\obj\Debug\net6.0\KokonaislukuTarkastus.csproj.AssemblyReference.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KokonaislukuTarkastus\obj\Debug\net6.0\KokonaislukuTarkastus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KokonaislukuTarkastus\obj\Debug\net6.0\KokonaislukuTarkastus.AssemblyInfoInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KokonaislukuTarkastus\obj\Debug\net6.0\KokonaislukuTarkastus.AssemblyInfo.cs
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KokonaislukuTarkastus\obj\Debug\net6.0\KokonaislukuTarkastus.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KokonaislukuTarkastus\obj\Debug\net6.0\KokonaislukuTarkastus.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KokonaislukuTarkastus\obj\Debug\net6.0\refint\KokonaislukuTarkastus.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KokonaislukuTarkastus\obj\Debug\net6.0\KokonaislukuTarkastus.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KokonaislukuTarkastus\obj\Debug\net6.0\KokonaislukuTarkastus.genruntimeconfig.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\KokonaislukuTarkastus\obj\Debug\net6.0\ref\KokonaislukuTarkastus.dll

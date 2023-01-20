@@ -1,0 +1,15 @@
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\TulostaNumeroMontakertaa\obj\Debug\net6.0\TulostaNumeroMontakertaa.csproj.AssemblyReference.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\TulostaNumeroMontakertaa\obj\Debug\net6.0\TulostaNumeroMontakertaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\TulostaNumeroMontakertaa\obj\Debug\net6.0\TulostaNumeroMontakertaa.AssemblyInfoInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\TulostaNumeroMontakertaa\obj\Debug\net6.0\TulostaNumeroMontakertaa.AssemblyInfo.cs
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\TulostaNumeroMontakertaa\obj\Debug\net6.0\TulostaNumeroMontakertaa.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\TulostaNumeroMontakertaa\bin\Debug\net6.0\TulostaNumeroMontakertaa.exe
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\TulostaNumeroMontakertaa\bin\Debug\net6.0\TulostaNumeroMontakertaa.deps.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\TulostaNumeroMontakertaa\bin\Debug\net6.0\TulostaNumeroMontakertaa.runtimeconfig.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\TulostaNumeroMontakertaa\bin\Debug\net6.0\TulostaNumeroMontakertaa.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\TulostaNumeroMontakertaa\bin\Debug\net6.0\TulostaNumeroMontakertaa.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\TulostaNumeroMontakertaa\obj\Debug\net6.0\TulostaNumeroMontakertaa.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\TulostaNumeroMontakertaa\obj\Debug\net6.0\refint\TulostaNumeroMontakertaa.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\TulostaNumeroMontakertaa\obj\Debug\net6.0\TulostaNumeroMontakertaa.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\TulostaNumeroMontakertaa\obj\Debug\net6.0\TulostaNumeroMontakertaa.genruntimeconfig.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\TulostaNumeroMontakertaa\obj\Debug\net6.0\ref\TulostaNumeroMontakertaa.dll
