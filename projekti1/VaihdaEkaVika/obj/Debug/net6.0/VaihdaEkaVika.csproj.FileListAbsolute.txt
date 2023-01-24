@@ -1,0 +1,15 @@
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\VaihdaEkaVika\obj\Debug\net6.0\VaihdaEkaVika.csproj.AssemblyReference.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\VaihdaEkaVika\obj\Debug\net6.0\VaihdaEkaVika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\VaihdaEkaVika\obj\Debug\net6.0\VaihdaEkaVika.AssemblyInfoInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\VaihdaEkaVika\obj\Debug\net6.0\VaihdaEkaVika.AssemblyInfo.cs
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\VaihdaEkaVika\obj\Debug\net6.0\VaihdaEkaVika.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\VaihdaEkaVika\bin\Debug\net6.0\VaihdaEkaVika.exe
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\VaihdaEkaVika\bin\Debug\net6.0\VaihdaEkaVika.deps.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\VaihdaEkaVika\bin\Debug\net6.0\VaihdaEkaVika.runtimeconfig.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\VaihdaEkaVika\bin\Debug\net6.0\VaihdaEkaVika.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\VaihdaEkaVika\bin\Debug\net6.0\VaihdaEkaVika.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\VaihdaEkaVika\obj\Debug\net6.0\VaihdaEkaVika.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\VaihdaEkaVika\obj\Debug\net6.0\refint\VaihdaEkaVika.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\VaihdaEkaVika\obj\Debug\net6.0\VaihdaEkaVika.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\VaihdaEkaVika\obj\Debug\net6.0\VaihdaEkaVika.genruntimeconfig.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\VaihdaEkaVika\obj\Debug\net6.0\ref\VaihdaEkaVika.dll

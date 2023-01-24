@@ -1,0 +1,15 @@
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PisinSana\obj\Debug\net6.0\PisinSana.csproj.AssemblyReference.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PisinSana\obj\Debug\net6.0\PisinSana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PisinSana\obj\Debug\net6.0\PisinSana.AssemblyInfoInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PisinSana\obj\Debug\net6.0\PisinSana.AssemblyInfo.cs
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PisinSana\obj\Debug\net6.0\PisinSana.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PisinSana\bin\Debug\net6.0\PisinSana.exe
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PisinSana\bin\Debug\net6.0\PisinSana.deps.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PisinSana\bin\Debug\net6.0\PisinSana.runtimeconfig.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PisinSana\bin\Debug\net6.0\PisinSana.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PisinSana\bin\Debug\net6.0\PisinSana.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PisinSana\obj\Debug\net6.0\PisinSana.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PisinSana\obj\Debug\net6.0\refint\PisinSana.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PisinSana\obj\Debug\net6.0\PisinSana.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PisinSana\obj\Debug\net6.0\PisinSana.genruntimeconfig.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PisinSana\obj\Debug\net6.0\ref\PisinSana.dll

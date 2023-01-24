@@ -1,0 +1,15 @@
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\JaollinenKolmella\bin\Debug\net6.0\JaollinenKolmella.exe
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\JaollinenKolmella\bin\Debug\net6.0\JaollinenKolmella.deps.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\JaollinenKolmella\bin\Debug\net6.0\JaollinenKolmella.runtimeconfig.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\JaollinenKolmella\bin\Debug\net6.0\JaollinenKolmella.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\JaollinenKolmella\bin\Debug\net6.0\JaollinenKolmella.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\JaollinenKolmella\obj\Debug\net6.0\JaollinenKolmella.csproj.AssemblyReference.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\JaollinenKolmella\obj\Debug\net6.0\JaollinenKolmella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\JaollinenKolmella\obj\Debug\net6.0\JaollinenKolmella.AssemblyInfoInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\JaollinenKolmella\obj\Debug\net6.0\JaollinenKolmella.AssemblyInfo.cs
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\JaollinenKolmella\obj\Debug\net6.0\JaollinenKolmella.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\JaollinenKolmella\obj\Debug\net6.0\JaollinenKolmella.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\JaollinenKolmella\obj\Debug\net6.0\refint\JaollinenKolmella.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\JaollinenKolmella\obj\Debug\net6.0\JaollinenKolmella.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\JaollinenKolmella\obj\Debug\net6.0\JaollinenKolmella.genruntimeconfig.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\JaollinenKolmella\obj\Debug\net6.0\ref\JaollinenKolmella.dll

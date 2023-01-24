@@ -1,0 +1,15 @@
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Parittomat\bin\Debug\net6.0\Parittomat.exe
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Parittomat\bin\Debug\net6.0\Parittomat.deps.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Parittomat\bin\Debug\net6.0\Parittomat.runtimeconfig.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Parittomat\bin\Debug\net6.0\Parittomat.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Parittomat\bin\Debug\net6.0\Parittomat.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Parittomat\obj\Debug\net6.0\Parittomat.csproj.AssemblyReference.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Parittomat\obj\Debug\net6.0\Parittomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Parittomat\obj\Debug\net6.0\Parittomat.AssemblyInfoInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Parittomat\obj\Debug\net6.0\Parittomat.AssemblyInfo.cs
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Parittomat\obj\Debug\net6.0\Parittomat.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Parittomat\obj\Debug\net6.0\Parittomat.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Parittomat\obj\Debug\net6.0\refint\Parittomat.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Parittomat\obj\Debug\net6.0\Parittomat.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Parittomat\obj\Debug\net6.0\Parittomat.genruntimeconfig.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Parittomat\obj\Debug\net6.0\ref\Parittomat.dll
