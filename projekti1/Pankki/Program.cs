@@ -1,4 +1,6 @@
-﻿namespace Pankki
+﻿using System;
+
+namespace Pankki
 {
 
     public class Pankkitili
@@ -21,7 +23,6 @@
         {
             get { return m_saldo; }
         }
-    }
 
     public void Otto(double summa)
     {
@@ -43,14 +44,16 @@
         {
             throw new ArgumentOutOfRangeException("summa");
         }
-        m_saldo += summa;
-    }
 
-    public static void Main()
-    {
-        Pankkitili pt = new Pankkitili("Markus Kesseli", 1205.53);
-        pt.Pano(300);
-        pt.Otto(52.44);
-        Console.WriteLine("Nykyinen saldo on {0} euroa", pt.Saldo);
+        m_saldo += summa;
+        }
+
+        public static void Main()
+        {
+            Pankkitili pt = new Pankkitili("Markus Kesseli", 1205.53);
+            pt.Pano(300);
+            pt.Otto(52.44);
+            Console.WriteLine("Nykyinen saldo on {0} euroa", pt.Saldo);
+        }
     }
 }

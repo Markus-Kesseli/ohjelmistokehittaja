@@ -1,0 +1,15 @@
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\bin\Debug\net6.0\ehtolause.exe
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\bin\Debug\net6.0\ehtolause.deps.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\bin\Debug\net6.0\ehtolause.runtimeconfig.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\bin\Debug\net6.0\ehtolause.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\bin\Debug\net6.0\ehtolause.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\ehtolause.csproj.AssemblyReference.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\ehtolause.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\ehtolause.AssemblyInfoInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\ehtolause.AssemblyInfo.cs
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\ehtolause.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\ehtolause.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\refint\ehtolause.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\ehtolause.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\ehtolause.genruntimeconfig.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\PERUSHARJOITUKSIA\obj\Debug\net6.0\ref\ehtolause.dll

@@ -45,15 +45,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TulostaNumeroMontakertaa", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KokonaislukuTarkastus", "KokonaislukuTarkastus\KokonaislukuTarkastus.csproj", "{955691DC-8793-4A43-87BD-646231D97EC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaihdaEkaVika", "VaihdaEkaVika\VaihdaEkaVika.csproj", "{1785D6C5-6234-4649-ABF9-238FB19FABD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VaihdaEkaVika", "VaihdaEkaVika\VaihdaEkaVika.csproj", "{1785D6C5-6234-4649-ABF9-238FB19FABD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PisinSana", "PisinSana\PisinSana.csproj", "{8E1E5264-CB0F-4EA9-9345-271B767C2E95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PisinSana", "PisinSana\PisinSana.csproj", "{8E1E5264-CB0F-4EA9-9345-271B767C2E95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parittomat", "Parittomat\Parittomat.csproj", "{FF15B87D-7CB6-4CFA-A222-443B06EDB04B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parittomat", "Parittomat\Parittomat.csproj", "{FF15B87D-7CB6-4CFA-A222-443B06EDB04B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaollinenKolmella", "JaollinenKolmella\JaollinenKolmella.csproj", "{11AC20A6-5CC3-48F1-BE61-89075E44B287}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JaollinenKolmella", "JaollinenKolmella\JaollinenKolmella.csproj", "{11AC20A6-5CC3-48F1-BE61-89075E44B287}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0-999", "0-999\0-999.csproj", "{092B2BE5-4836-497C-9CA6-35224185FDA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0-999", "0-999\0-999.csproj", "{092B2BE5-4836-497C-9CA6-35224185FDA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount", "BankAccount\BankAccount.csproj", "{9B3C2438-E13D-4348-A1D5-43C081A1A39D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{092B2BE5-4836-497C-9CA6-35224185FDA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{092B2BE5-4836-497C-9CA6-35224185FDA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{092B2BE5-4836-497C-9CA6-35224185FDA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B3C2438-E13D-4348-A1D5-43C081A1A39D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3C2438-E13D-4348-A1D5-43C081A1A39D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3C2438-E13D-4348-A1D5-43C081A1A39D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3C2438-E13D-4348-A1D5-43C081A1A39D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
