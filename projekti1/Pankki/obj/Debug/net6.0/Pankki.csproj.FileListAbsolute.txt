@@ -3,3 +3,13 @@ C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Pankki\obj\Debug\net6.
 C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Pankki\obj\Debug\net6.0\Pankki.AssemblyInfoInputs.cache
 C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Pankki\obj\Debug\net6.0\Pankki.AssemblyInfo.cs
 C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Pankki\obj\Debug\net6.0\Pankki.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Pankki\bin\Debug\net6.0\Pankki.exe
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Pankki\bin\Debug\net6.0\Pankki.deps.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Pankki\bin\Debug\net6.0\Pankki.runtimeconfig.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Pankki\bin\Debug\net6.0\Pankki.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Pankki\bin\Debug\net6.0\Pankki.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Pankki\obj\Debug\net6.0\Pankki.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Pankki\obj\Debug\net6.0\refint\Pankki.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Pankki\obj\Debug\net6.0\Pankki.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Pankki\obj\Debug\net6.0\Pankki.genruntimeconfig.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\projekti1\Pankki\obj\Debug\net6.0\ref\Pankki.dll

@@ -55,7 +55,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JaollinenKolmella", "Jaolli
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0-999", "0-999\0-999.csproj", "{092B2BE5-4836-497C-9CA6-35224185FDA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount", "BankAccount\BankAccount.csproj", "{9B3C2438-E13D-4348-A1D5-43C081A1A39D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankAccount", "BankAccount\BankAccount.csproj", "{9B3C2438-E13D-4348-A1D5-43C081A1A39D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PankkiTestaus", "PankkiTestaus\PankkiTestaus.csproj", "{09EC087F-E005-43A6-9384-8929D2E3D55A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{9B3C2438-E13D-4348-A1D5-43C081A1A39D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B3C2438-E13D-4348-A1D5-43C081A1A39D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B3C2438-E13D-4348-A1D5-43C081A1A39D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09EC087F-E005-43A6-9384-8929D2E3D55A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09EC087F-E005-43A6-9384-8929D2E3D55A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09EC087F-E005-43A6-9384-8929D2E3D55A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09EC087F-E005-43A6-9384-8929D2E3D55A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
