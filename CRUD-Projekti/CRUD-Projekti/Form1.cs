@@ -6,5 +6,10 @@ namespace CRUD_Projekti
         {
             InitializeComponent();
         }
+
+        private void vaihdaBT_Click(object sender, EventArgs e)
+        {
+            otsikkoLB.Text = "Heippa maailma";
+        }
     }
 }
