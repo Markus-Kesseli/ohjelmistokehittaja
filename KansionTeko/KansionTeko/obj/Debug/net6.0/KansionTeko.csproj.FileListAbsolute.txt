@@ -1,0 +1,15 @@
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\KansionTeko\bin\Debug\net6.0\KansionTeko.exe
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\KansionTeko\bin\Debug\net6.0\KansionTeko.deps.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\KansionTeko\bin\Debug\net6.0\KansionTeko.runtimeconfig.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\KansionTeko\bin\Debug\net6.0\KansionTeko.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\KansionTeko\bin\Debug\net6.0\KansionTeko.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\KansionTeko\obj\Debug\net6.0\KansionTeko.csproj.AssemblyReference.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\KansionTeko\obj\Debug\net6.0\KansionTeko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\KansionTeko\obj\Debug\net6.0\KansionTeko.AssemblyInfoInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\KansionTeko\obj\Debug\net6.0\KansionTeko.AssemblyInfo.cs
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\KansionTeko\obj\Debug\net6.0\KansionTeko.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\KansionTeko\obj\Debug\net6.0\KansionTeko.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\KansionTeko\obj\Debug\net6.0\refint\KansionTeko.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\KansionTeko\obj\Debug\net6.0\KansionTeko.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\KansionTeko\obj\Debug\net6.0\KansionTeko.genruntimeconfig.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\KansionTeko\obj\Debug\net6.0\ref\KansionTeko.dll

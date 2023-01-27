@@ -1,0 +1,15 @@
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\VerkkoSivu\bin\Debug\net6.0\VerkkoSivu.exe
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\VerkkoSivu\bin\Debug\net6.0\VerkkoSivu.deps.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\VerkkoSivu\bin\Debug\net6.0\VerkkoSivu.runtimeconfig.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\VerkkoSivu\bin\Debug\net6.0\VerkkoSivu.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\VerkkoSivu\bin\Debug\net6.0\VerkkoSivu.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\VerkkoSivu\obj\Debug\net6.0\VerkkoSivu.csproj.AssemblyReference.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\VerkkoSivu\obj\Debug\net6.0\VerkkoSivu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\VerkkoSivu\obj\Debug\net6.0\VerkkoSivu.AssemblyInfoInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\VerkkoSivu\obj\Debug\net6.0\VerkkoSivu.AssemblyInfo.cs
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\VerkkoSivu\obj\Debug\net6.0\VerkkoSivu.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\VerkkoSivu\obj\Debug\net6.0\VerkkoSivu.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\VerkkoSivu\obj\Debug\net6.0\refint\VerkkoSivu.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\VerkkoSivu\obj\Debug\net6.0\VerkkoSivu.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\VerkkoSivu\obj\Debug\net6.0\VerkkoSivu.genruntimeconfig.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\KansionTeko\VerkkoSivu\obj\Debug\net6.0\ref\VerkkoSivu.dll
