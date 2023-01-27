@@ -12,8 +12,8 @@ namespace Harjoitus4
             DateTime synttari = paivaDTB.Value;
             DateTime nyt = DateTime.Now;
             double erotus = Math.Round((nyt - synttari).TotalDays);
-            vuosiLB.Text = Math.Ceiling(erotus / 365.25) + " vuotta";
-            kuukausiLB.Text = Math.Ceiling(erotus * 12 / 365.25) + " kuukautta";
+            vuosiLB.Text = Math.Floor(erotus / 365.25) + " vuotta";
+            kuukausiLB.Text = Math.Floor(erotus * 12 / 365.25) + " kuukautta";
             paivaLB.Text = (erotus + " p‰iv‰‰");
             tuntiLB.Text = (erotus * 24 + " tuntia");
             minuuttiLB.Text = (erotus * 24 * 60 + " minuuttia");
