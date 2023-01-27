@@ -36,11 +36,21 @@ namespace Harjoitus3
                     break;
 
                 default:
-                    vastausLB.Text = "Virheelliset syötöt!";
+                    MessageBox.Show("Virheelliset syötöt!");
                     break;
             }
             vastausLB.Text = vastaus.ToString();
             vastausLB.Visible = true;
+        }
+
+        private void lukuyksiTB_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lukukaksiTB_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

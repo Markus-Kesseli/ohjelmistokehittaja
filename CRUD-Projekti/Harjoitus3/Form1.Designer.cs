@@ -43,6 +43,7 @@
             this.lukuyksiTB.Name = "lukuyksiTB";
             this.lukuyksiTB.Size = new System.Drawing.Size(100, 35);
             this.lukuyksiTB.TabIndex = 0;
+            this.lukuyksiTB.TextChanged += new System.EventHandler(this.lukuyksiTB_TextChanged);
             // 
             // lukukaksiTB
             // 
@@ -51,6 +52,7 @@
             this.lukukaksiTB.Name = "lukukaksiTB";
             this.lukukaksiTB.Size = new System.Drawing.Size(100, 35);
             this.lukukaksiTB.TabIndex = 1;
+            this.lukukaksiTB.TextChanged += new System.EventHandler(this.lukukaksiTB_TextChanged);
             // 
             // laskutoimitusCB
             // 
