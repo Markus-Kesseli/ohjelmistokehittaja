@@ -1,0 +1,17 @@
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\LukujenJarjestys\bin\Debug\net6.0-windows\LukujenJarjestys.exe
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\LukujenJarjestys\bin\Debug\net6.0-windows\LukujenJarjestys.deps.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\LukujenJarjestys\bin\Debug\net6.0-windows\LukujenJarjestys.runtimeconfig.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\LukujenJarjestys\bin\Debug\net6.0-windows\LukujenJarjestys.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\LukujenJarjestys\bin\Debug\net6.0-windows\LukujenJarjestys.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.csproj.AssemblyReference.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.Form1.resources
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.csproj.GenerateResource.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.AssemblyInfoInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.AssemblyInfo.cs
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\LukujenJarjestys\obj\Debug\net6.0-windows\refint\LukujenJarjestys.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.genruntimeconfig.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\LukujenJarjestys\obj\Debug\net6.0-windows\ref\LukujenJarjestys.dll

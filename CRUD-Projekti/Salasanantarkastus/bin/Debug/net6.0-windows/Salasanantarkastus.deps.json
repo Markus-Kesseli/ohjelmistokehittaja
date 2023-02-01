@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Salasanantarkastus/1.0.0": {
+        "runtime": {
+          "Salasanantarkastus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Salasanantarkastus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
