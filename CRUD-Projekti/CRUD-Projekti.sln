@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoomalaisetNro", "Roomalais
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelciusToFahrenheit", "CelciusToFahrenheit\CelciusToFahrenheit.csproj", "{948B6E26-2A76-4D4F-8135-FFD2864AAE04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMILaskuri", "BMILaskuri\BMILaskuri.csproj", "{1270F7F5-83AC-4803-BF29-18380AF7172F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{948B6E26-2A76-4D4F-8135-FFD2864AAE04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{948B6E26-2A76-4D4F-8135-FFD2864AAE04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{948B6E26-2A76-4D4F-8135-FFD2864AAE04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1270F7F5-83AC-4803-BF29-18380AF7172F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1270F7F5-83AC-4803-BF29-18380AF7172F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1270F7F5-83AC-4803-BF29-18380AF7172F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1270F7F5-83AC-4803-BF29-18380AF7172F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
