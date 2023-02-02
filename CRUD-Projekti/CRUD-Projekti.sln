@@ -11,11 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus3", "Harjoitus3\Ha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus4", "Harjoitus4\Harjoitus4.csproj", "{5BE08B29-3F41-4B9D-B522-2D106BECD0A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LukujenJarjestys", "LukujenJarjestys\LukujenJarjestys.csproj", "{FFFE96D7-7506-47E0-94AE-B28C3B884529}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LukujenJarjestys", "LukujenJarjestys\LukujenJarjestys.csproj", "{FFFE96D7-7506-47E0-94AE-B28C3B884529}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salasanantarkastus", "Salasanantarkastus\Salasanantarkastus.csproj", "{07044B40-A030-4E47-A6FB-E1BB7C4AB275}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Salasanantarkastus", "Salasanantarkastus\Salasanantarkastus.csproj", "{07044B40-A030-4E47-A6FB-E1BB7C4AB275}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoKuluLaskuri", "AutoKuluLaskuri\AutoKuluLaskuri.csproj", "{15FAD1B9-E939-4497-954D-0E675CCA1F01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoKuluLaskuri", "AutoKuluLaskuri\AutoKuluLaskuri.csproj", "{15FAD1B9-E939-4497-954D-0E675CCA1F01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomalaisetNro", "RoomalaisetNro\RoomalaisetNro.csproj", "{6C92194B-7BE7-4A24-A872-8BFC1BEAC6E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{15FAD1B9-E939-4497-954D-0E675CCA1F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15FAD1B9-E939-4497-954D-0E675CCA1F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15FAD1B9-E939-4497-954D-0E675CCA1F01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C92194B-7BE7-4A24-A872-8BFC1BEAC6E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C92194B-7BE7-4A24-A872-8BFC1BEAC6E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C92194B-7BE7-4A24-A872-8BFC1BEAC6E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C92194B-7BE7-4A24-A872-8BFC1BEAC6E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
