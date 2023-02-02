@@ -15,3 +15,4 @@ C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\RoomalaisetNro\obj
 C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\RoomalaisetNro\obj\Debug\net6.0-windows\RoomalaisetNro.pdb
 C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\RoomalaisetNro\obj\Debug\net6.0-windows\RoomalaisetNro.genruntimeconfig.cache
 C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\RoomalaisetNro\obj\Debug\net6.0-windows\ref\RoomalaisetNro.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\RoomalaisetNro\obj\Debug\net6.0-windows\RoomalaisetNro.Properties.Resources.resources

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.muutaBT = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.nroTB = new System.Windows.Forms.TextBox();
@@ -48,12 +49,15 @@
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Gabriola", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(167, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(373, 88);
             this.label1.TabIndex = 1;
             this.label1.Text = "Roomalaiset numerot";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // nroTB
             // 
@@ -65,7 +69,9 @@
             // label2
             // 
             this.label2.AutoSize = true;
+            this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Gabriola", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label2.ForeColor = System.Drawing.Color.White;
             this.label2.Location = new System.Drawing.Point(12, 99);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(463, 39);
@@ -75,18 +81,22 @@
             // vastausLB
             // 
             this.vastausLB.AutoSize = true;
-            this.vastausLB.Font = new System.Drawing.Font("Gabriola", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.vastausLB.Location = new System.Drawing.Point(300, 193);
+            this.vastausLB.BackColor = System.Drawing.Color.Transparent;
+            this.vastausLB.Font = new System.Drawing.Font("Gabriola", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.vastausLB.ForeColor = System.Drawing.Color.White;
+            this.vastausLB.Location = new System.Drawing.Point(294, 174);
             this.vastausLB.Name = "vastausLB";
-            this.vastausLB.Size = new System.Drawing.Size(88, 59);
+            this.vastausLB.Size = new System.Drawing.Size(153, 88);
             this.vastausLB.TabIndex = 4;
-            this.vastausLB.Text = "label3";
+            this.vastausLB.Text = "vastaus";
             this.vastausLB.Visible = false;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(683, 306);
             this.Controls.Add(this.vastausLB);
             this.Controls.Add(this.label2);
