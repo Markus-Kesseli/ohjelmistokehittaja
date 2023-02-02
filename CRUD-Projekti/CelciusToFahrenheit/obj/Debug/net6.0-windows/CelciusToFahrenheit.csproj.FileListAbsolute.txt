@@ -1,0 +1,17 @@
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\CelciusToFahrenheit\bin\Debug\net6.0-windows\CelciusToFahrenheit.exe
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\CelciusToFahrenheit\bin\Debug\net6.0-windows\CelciusToFahrenheit.deps.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\CelciusToFahrenheit\bin\Debug\net6.0-windows\CelciusToFahrenheit.runtimeconfig.json
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\CelciusToFahrenheit\bin\Debug\net6.0-windows\CelciusToFahrenheit.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\CelciusToFahrenheit\bin\Debug\net6.0-windows\CelciusToFahrenheit.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\CelciusToFahrenheit\obj\Debug\net6.0-windows\CelciusToFahrenheit.csproj.AssemblyReference.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\CelciusToFahrenheit\obj\Debug\net6.0-windows\CelciusToFahrenheit.Form1.resources
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\CelciusToFahrenheit\obj\Debug\net6.0-windows\CelciusToFahrenheit.csproj.GenerateResource.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\CelciusToFahrenheit\obj\Debug\net6.0-windows\CelciusToFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\CelciusToFahrenheit\obj\Debug\net6.0-windows\CelciusToFahrenheit.AssemblyInfoInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\CelciusToFahrenheit\obj\Debug\net6.0-windows\CelciusToFahrenheit.AssemblyInfo.cs
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\CelciusToFahrenheit\obj\Debug\net6.0-windows\CelciusToFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\CelciusToFahrenheit\obj\Debug\net6.0-windows\CelciusToFahrenheit.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\CelciusToFahrenheit\obj\Debug\net6.0-windows\refint\CelciusToFahrenheit.dll
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\CelciusToFahrenheit\obj\Debug\net6.0-windows\CelciusToFahrenheit.pdb
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\CelciusToFahrenheit\obj\Debug\net6.0-windows\CelciusToFahrenheit.genruntimeconfig.cache
+C:\Users\marku\source\repos\ohjelmistokehittaja\CRUD-Projekti\CelciusToFahrenheit\obj\Debug\net6.0-windows\ref\CelciusToFahrenheit.dll

@@ -113,15 +113,15 @@ namespace RoomalaisetNro
             }
             else if (luku3 % 8 == 0 && luku3 != 0)
             {
-                return "LCCC";
+                return "LXXX";
             }
             else if (luku3 % 7 == 0 && luku3 != 0)
             {
-                return "LCC";
+                return "LXX";
             }
             else if (luku3 % 6 == 0 && luku3 != 0)
             {
-                return "LC";
+                return "LX";
             }
             else if (luku3 % 5 == 0 && luku3 != 0)
             {
@@ -129,7 +129,7 @@ namespace RoomalaisetNro
             }
             else if (luku3 % 4 == 0 && luku3 != 0)
             {
-                return "LX";
+                return "XL";
             }
             else if (luku3 % 3 == 0 && luku3 != 0)
             {
