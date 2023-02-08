@@ -150,7 +150,7 @@
             this.Controls.Add(this.ARB);
             this.Controls.Add(this.listView1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "10 kysymystä";
             this.ResumeLayout(false);
             this.PerformLayout();
 
