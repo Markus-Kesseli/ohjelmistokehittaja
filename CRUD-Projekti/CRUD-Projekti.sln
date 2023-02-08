@@ -19,9 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoKuluLaskuri", "AutoKulu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoomalaisetNro", "RoomalaisetNro\RoomalaisetNro.csproj", "{6C92194B-7BE7-4A24-A872-8BFC1BEAC6E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelciusToFahrenheit", "CelciusToFahrenheit\CelciusToFahrenheit.csproj", "{948B6E26-2A76-4D4F-8135-FFD2864AAE04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CelciusToFahrenheit", "CelciusToFahrenheit\CelciusToFahrenheit.csproj", "{948B6E26-2A76-4D4F-8135-FFD2864AAE04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMILaskuri", "BMILaskuri\BMILaskuri.csproj", "{1270F7F5-83AC-4803-BF29-18380AF7172F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BMILaskuri", "BMILaskuri\BMILaskuri.csproj", "{1270F7F5-83AC-4803-BF29-18380AF7172F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NopanHeitto", "NopanHeitto\NopanHeitto.csproj", "{DE6A74DC-8713-4102-9BEC-5FB6242AE542}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10Kysymysta", "10Kysymysta\10Kysymysta.csproj", "{28FA015A-3197-4F65-A59A-B8B95EB5F509}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{1270F7F5-83AC-4803-BF29-18380AF7172F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1270F7F5-83AC-4803-BF29-18380AF7172F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1270F7F5-83AC-4803-BF29-18380AF7172F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE6A74DC-8713-4102-9BEC-5FB6242AE542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE6A74DC-8713-4102-9BEC-5FB6242AE542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE6A74DC-8713-4102-9BEC-5FB6242AE542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE6A74DC-8713-4102-9BEC-5FB6242AE542}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28FA015A-3197-4F65-A59A-B8B95EB5F509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28FA015A-3197-4F65-A59A-B8B95EB5F509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28FA015A-3197-4F65-A59A-B8B95EB5F509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28FA015A-3197-4F65-A59A-B8B95EB5F509}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
