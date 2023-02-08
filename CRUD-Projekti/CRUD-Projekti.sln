@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NopanHeitto", "NopanHeitto\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10Kysymysta", "10Kysymysta\10Kysymysta.csproj", "{28FA015A-3197-4F65-A59A-B8B95EB5F509}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuositutNimet", "SuositutNimet\SuositutNimet.csproj", "{3C5B4E55-7E5E-4ABC-8811-E2991FBEB0E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaivaKirja", "PaivaKirja\PaivaKirja.csproj", "{9A46EAC7-EF54-402E-9DB4-7F53C72966CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{28FA015A-3197-4F65-A59A-B8B95EB5F509}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28FA015A-3197-4F65-A59A-B8B95EB5F509}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28FA015A-3197-4F65-A59A-B8B95EB5F509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C5B4E55-7E5E-4ABC-8811-E2991FBEB0E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C5B4E55-7E5E-4ABC-8811-E2991FBEB0E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C5B4E55-7E5E-4ABC-8811-E2991FBEB0E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C5B4E55-7E5E-4ABC-8811-E2991FBEB0E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A46EAC7-EF54-402E-9DB4-7F53C72966CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A46EAC7-EF54-402E-9DB4-7F53C72966CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A46EAC7-EF54-402E-9DB4-7F53C72966CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A46EAC7-EF54-402E-9DB4-7F53C72966CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
