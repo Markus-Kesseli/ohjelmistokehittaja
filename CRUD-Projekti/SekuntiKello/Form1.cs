@@ -1,40 +1,38 @@
-using System;
 using System.Diagnostics;
-using System.Threading;
 
 namespace SekuntiKello
 {
     public partial class Form1 : Form
     {
-        private Stopwatch stopWatch;
+        private Stopwatch sekkari = new Stopwatch();
         public Form1()
         {
             InitializeComponent();
         }
 
+        private void aikaLB_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void startBT_Click(object sender, EventArgs e)
         {
-            stopWatch.Start();
+            sekkari.Start();
         }
 
         private void stopBT_Click(object sender, EventArgs e)
         {
-            stopWatch.Stop();
+            sekkari.Stop();
         }
 
         private void resetBT_Click(object sender, EventArgs e)
         {
-            stopWatch.Reset();
+            sekkari.Reset();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void aikaTM_Tick(object sender, EventArgs e)
         {
-            stopWatch = new Stopwatch();
-        }
-
-        private void ajastinTM_Tick(object sender, EventArgs e)
-        {
-            aikaLB.Text = stopWatch.Elapsed.ToString();
+            aikaLB.Text = String.Format("{0:hh\\:mm\\:ss\\:fff}", sekkari.Elapsed);
         }
     }
 }
