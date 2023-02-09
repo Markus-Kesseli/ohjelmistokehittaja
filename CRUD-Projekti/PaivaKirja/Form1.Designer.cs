@@ -28,78 +28,37 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.tekstiRTB = new System.Windows.Forms.RichTextBox();
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.tiedostoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.avaaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.tallennaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.uusiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.menuStrip1.SuspendLayout();
+            this.tekstiTB = new System.Windows.Forms.TextBox();
+            this.tallennaBT = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // tekstiRTB
+            // tekstiTB
             // 
-            this.tekstiRTB.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tekstiRTB.Location = new System.Drawing.Point(0, 24);
-            this.tekstiRTB.Name = "tekstiRTB";
-            this.tekstiRTB.Size = new System.Drawing.Size(635, 330);
-            this.tekstiRTB.TabIndex = 0;
-            this.tekstiRTB.Text = "";
-            this.tekstiRTB.TextChanged += new System.EventHandler(this.richTextBox1_TextChanged);
+            this.tekstiTB.Location = new System.Drawing.Point(12, 12);
+            this.tekstiTB.Multiline = true;
+            this.tekstiTB.Name = "tekstiTB";
+            this.tekstiTB.Size = new System.Drawing.Size(674, 287);
+            this.tekstiTB.TabIndex = 0;
             // 
-            // menuStrip1
+            // tallennaBT
             // 
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.tiedostoToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(635, 24);
-            this.menuStrip1.TabIndex = 1;
-            this.menuStrip1.Text = "menuStrip1";
-            // 
-            // tiedostoToolStripMenuItem
-            // 
-            this.tiedostoToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.uusiToolStripMenuItem,
-            this.avaaToolStripMenuItem,
-            this.tallennaToolStripMenuItem});
-            this.tiedostoToolStripMenuItem.Name = "tiedostoToolStripMenuItem";
-            this.tiedostoToolStripMenuItem.Size = new System.Drawing.Size(64, 20);
-            this.tiedostoToolStripMenuItem.Text = "Tiedosto";
-            // 
-            // avaaToolStripMenuItem
-            // 
-            this.avaaToolStripMenuItem.Name = "avaaToolStripMenuItem";
-            this.avaaToolStripMenuItem.Size = new System.Drawing.Size(117, 22);
-            this.avaaToolStripMenuItem.Text = "Avaa";
-            this.avaaToolStripMenuItem.Click += new System.EventHandler(this.avaaToolStripMenuItem_Click);
-            // 
-            // tallennaToolStripMenuItem
-            // 
-            this.tallennaToolStripMenuItem.Name = "tallennaToolStripMenuItem";
-            this.tallennaToolStripMenuItem.Size = new System.Drawing.Size(117, 22);
-            this.tallennaToolStripMenuItem.Text = "Tallenna";
-            this.tallennaToolStripMenuItem.Click += new System.EventHandler(this.tallennaToolStripMenuItem_Click);
-            // 
-            // uusiToolStripMenuItem
-            // 
-            this.uusiToolStripMenuItem.Name = "uusiToolStripMenuItem";
-            this.uusiToolStripMenuItem.Size = new System.Drawing.Size(117, 22);
-            this.uusiToolStripMenuItem.Text = "Uusi";
-            this.uusiToolStripMenuItem.Click += new System.EventHandler(this.uusiToolStripMenuItem_Click);
+            this.tallennaBT.Location = new System.Drawing.Point(302, 305);
+            this.tallennaBT.Name = "tallennaBT";
+            this.tallennaBT.Size = new System.Drawing.Size(105, 35);
+            this.tallennaBT.TabIndex = 1;
+            this.tallennaBT.Text = "Tallenna";
+            this.tallennaBT.UseVisualStyleBackColor = true;
+            this.tallennaBT.Click += new System.EventHandler(this.tallennaBT_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(635, 354);
-            this.Controls.Add(this.tekstiRTB);
-            this.Controls.Add(this.menuStrip1);
-            this.MainMenuStrip = this.menuStrip1;
+            this.ClientSize = new System.Drawing.Size(698, 350);
+            this.Controls.Add(this.tallennaBT);
+            this.Controls.Add(this.tekstiTB);
             this.Name = "Form1";
             this.Text = "Päiväkirja";
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -107,11 +66,7 @@
 
         #endregion
 
-        private RichTextBox tekstiRTB;
-        private MenuStrip menuStrip1;
-        private ToolStripMenuItem tiedostoToolStripMenuItem;
-        private ToolStripMenuItem uusiToolStripMenuItem;
-        private ToolStripMenuItem avaaToolStripMenuItem;
-        private ToolStripMenuItem tallennaToolStripMenuItem;
+        private TextBox tekstiTB;
+        private Button tallennaBT;
     }
 }

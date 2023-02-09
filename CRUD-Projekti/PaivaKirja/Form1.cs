@@ -1,3 +1,5 @@
+using System.IO;
+
 namespace PaivaKirja
 {
     public partial class Form1 : Form
@@ -5,39 +7,19 @@ namespace PaivaKirja
         public Form1()
         {
             InitializeComponent();
+            string teksti = File.ReadAllText("C:/temp/paivakirja.txt");
+            tekstiTB.Text = teksti;
         }
 
-        private void uusiToolStripMenuItem_Click(object sender, EventArgs e)
+        private void tallennaBT_Click(object sender, EventArgs e)
         {
-            this.Text = "teksti.txt";
-            tekstiRTB.Clear();
-        }
-
-        private void avaaToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            OpenFileDialog avaa = new OpenFileDialog();
-            avaa.Filter = "Tekstitiedosto(*.txt)|*.txt";
-            if(avaa.ShowDialog() == DialogResult.OK) 
-            {
-                tekstiRTB.LoadFile(avaa.FileName, RichTextBoxStreamType.PlainText);
-                this.Text = avaa.FileName;
-            }
-        }
-
-        private void tallennaToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            SaveFileDialog tallenna = new SaveFileDialog();
-            tallenna.Filter = "Tekstitiedosto(*.txt)|*.txt";
-            if(tallenna.ShowDialog() == DialogResult.OK)
-            {
-                tekstiRTB.SaveFile(tallenna.FileName, RichTextBoxStreamType.PlainText);
-                this.Text = tallenna.FileName;
-            }
-        }
-
-        private void richTextBox1_TextChanged(object sender, EventArgs e)
-        {
-
+            string teksti = "";
+            teksti += tekstiTB.Text;
+            teksti += " " + DateTime.Now.ToString("dd.MM.yyyy HH:mm") + "\n";
+            TextWriter text = new StreamWriter("C:/temp/paivakirja.txt");
+            text.Write(teksti);
+            text.Close();
+            Application.Exit();
         }
     }
 }
