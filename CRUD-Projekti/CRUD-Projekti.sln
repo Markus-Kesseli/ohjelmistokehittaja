@@ -29,13 +29,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10Kysymysta", "10Kysymysta\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuositutNimet", "SuositutNimet\SuositutNimet.csproj", "{3C5B4E55-7E5E-4ABC-8811-E2991FBEB0E7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Muistio", "PaivaKirja\Muistio.csproj", "{9A46EAC7-EF54-402E-9DB4-7F53C72966CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaivaKirja", "PaivaKirja\PaivaKirja.csproj", "{1FC3F4BE-8EFA-4C0D-9EB9-92E2D973C30E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaivaKirja", "PaivaKirja\PaivaKirja.csproj", "{1FC3F4BE-8EFA-4C0D-9EB9-92E2D973C30E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ajastin", "Ajastin\Ajastin.csproj", "{B35C0316-113F-4B80-A8D8-ACE3DDBA954E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ajastin", "Ajastin\Ajastin.csproj", "{B35C0316-113F-4B80-A8D8-ACE3DDBA954E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SekuntiKello", "SekuntiKello\SekuntiKello.csproj", "{4DF53EFF-85B1-42BA-BAB1-B479FFDB7A95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SekuntiKello", "SekuntiKello\SekuntiKello.csproj", "{4DF53EFF-85B1-42BA-BAB1-B479FFDB7A95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Muistio", "Muistio\Muistio.csproj", "{EBC6CFDA-6FC1-492E-ADE2-0E676625E1F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -95,10 +95,6 @@ Global
 		{3C5B4E55-7E5E-4ABC-8811-E2991FBEB0E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C5B4E55-7E5E-4ABC-8811-E2991FBEB0E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C5B4E55-7E5E-4ABC-8811-E2991FBEB0E7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9A46EAC7-EF54-402E-9DB4-7F53C72966CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9A46EAC7-EF54-402E-9DB4-7F53C72966CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9A46EAC7-EF54-402E-9DB4-7F53C72966CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9A46EAC7-EF54-402E-9DB4-7F53C72966CD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1FC3F4BE-8EFA-4C0D-9EB9-92E2D973C30E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1FC3F4BE-8EFA-4C0D-9EB9-92E2D973C30E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FC3F4BE-8EFA-4C0D-9EB9-92E2D973C30E}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -111,6 +107,10 @@ Global
 		{4DF53EFF-85B1-42BA-BAB1-B479FFDB7A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DF53EFF-85B1-42BA-BAB1-B479FFDB7A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DF53EFF-85B1-42BA-BAB1-B479FFDB7A95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC6CFDA-6FC1-492E-ADE2-0E676625E1F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC6CFDA-6FC1-492E-ADE2-0E676625E1F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC6CFDA-6FC1-492E-ADE2-0E676625E1F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC6CFDA-6FC1-492E-ADE2-0E676625E1F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

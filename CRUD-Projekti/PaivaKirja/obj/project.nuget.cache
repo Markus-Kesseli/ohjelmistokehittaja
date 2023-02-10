@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WgClMgSoWGo+ZXQ8hjD9a7LkDIvtjmVDUMfgTZ8tdoSqlcD9/8+RwwBvPsyCPj9cqFtY8E/Xax0HkjOHof6R8A==",
+  "dgSpecHash": "+GrFUqap8Zhz0HpKNydPBlcfbImMG1GKJ7aNs1p9XI5gXE50BwwssVA0ZoUTwIjfwaq7RVK2b+Mq/u1ZWhe3Qg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marku\\source\\repos\\ohjelmistokehittaja\\CRUD-Projekti\\PaivaKirja\\Muistio.csproj",
+  "projectFilePath": "C:\\Users\\marku\\source\\repos\\ohjelmistokehittaja\\CRUD-Projekti\\PaivaKirja\\PaivaKirja.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

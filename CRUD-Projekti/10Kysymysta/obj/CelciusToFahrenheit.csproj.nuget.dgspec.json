@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marku\\source\\repos\\ohjelmistokehittaja\\CRUD-Projekti\\Muistio\\Muistio.csproj": {}
+    "C:\\Users\\marku\\source\\repos\\ohjelmistokehittaja\\CRUD-Projekti\\CelciusToFahrenheit\\CelciusToFahrenheit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marku\\source\\repos\\ohjelmistokehittaja\\CRUD-Projekti\\Muistio\\Muistio.csproj": {
+    "C:\\Users\\marku\\source\\repos\\ohjelmistokehittaja\\CRUD-Projekti\\CelciusToFahrenheit\\CelciusToFahrenheit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marku\\source\\repos\\ohjelmistokehittaja\\CRUD-Projekti\\Muistio\\Muistio.csproj",
-        "projectName": "Muistio",
-        "projectPath": "C:\\Users\\marku\\source\\repos\\ohjelmistokehittaja\\CRUD-Projekti\\Muistio\\Muistio.csproj",
+        "projectUniqueName": "C:\\Users\\marku\\source\\repos\\ohjelmistokehittaja\\CRUD-Projekti\\CelciusToFahrenheit\\CelciusToFahrenheit.csproj",
+        "projectName": "10Kysymysta",
+        "projectPath": "C:\\Users\\marku\\source\\repos\\ohjelmistokehittaja\\CRUD-Projekti\\CelciusToFahrenheit\\CelciusToFahrenheit.csproj",
         "packagesPath": "C:\\Users\\marku\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marku\\source\\repos\\ohjelmistokehittaja\\CRUD-Projekti\\Muistio\\obj\\",
+        "outputPath": "C:\\Users\\marku\\source\\repos\\ohjelmistokehittaja\\CRUD-Projekti\\10Kysymysta\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
