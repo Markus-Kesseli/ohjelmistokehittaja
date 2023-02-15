@@ -37,7 +37,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Sitka Banner", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label1.Location = new System.Drawing.Point(129, 52);
+            this.label1.Location = new System.Drawing.Point(118, 52);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(238, 50);
             this.label1.TabIndex = 0;
@@ -63,7 +63,7 @@
             this.label3.TabIndex = 2;
             this.label3.Text = "By:";
             // 
-            // Form2
+            // tietoa
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -71,7 +71,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "Form2";
+            this.Name = "tietoa";
             this.Text = "Tietoa";
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -50,6 +50,7 @@
             this.muotoileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.kirjasinToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tekstinRivitysToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.tekstinKorostusToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.apuaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tietoaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.fileSystemWatcher1 = new System.IO.FileSystemWatcher();
@@ -57,7 +58,9 @@
             this.printDocument1 = new System.Drawing.Printing.PrintDocument();
             this.printPreviewDialog1 = new System.Windows.Forms.PrintPreviewDialog();
             this.fontDialog1 = new System.Windows.Forms.FontDialog();
-            this.tekstinKorostusToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
+            this.toolStripSeparator2 = new System.Windows.Forms.ToolStripSeparator();
+            this.toolStripSeparator3 = new System.Windows.Forms.ToolStripSeparator();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).BeginInit();
             this.SuspendLayout();
@@ -93,12 +96,14 @@
             this.avaaToolStripMenuItem,
             this.tallennaToolStripMenuItem,
             this.tallennaNimelläToolStripMenuItem,
+            this.toolStripSeparator1,
             this.tulostuksenEsikatseluToolStripMenuItem,
             this.tulostaToolStripMenuItem,
+            this.toolStripSeparator2,
             this.poistuToolStripMenuItem});
             this.tiedostoToolStripMenuItem.Name = "tiedostoToolStripMenuItem";
             this.tiedostoToolStripMenuItem.Size = new System.Drawing.Size(64, 20);
-            this.tiedostoToolStripMenuItem.Text = "Tiedosto";
+            this.tiedostoToolStripMenuItem.Text = "&Tiedosto";
             // 
             // uusiToolStripMenuItem
             // 
@@ -127,6 +132,7 @@
             // tallennaNimelläToolStripMenuItem
             // 
             this.tallennaNimelläToolStripMenuItem.Name = "tallennaNimelläToolStripMenuItem";
+            this.tallennaNimelläToolStripMenuItem.ShortcutKeyDisplayString = "";
             this.tallennaNimelläToolStripMenuItem.Size = new System.Drawing.Size(191, 22);
             this.tallennaNimelläToolStripMenuItem.Text = "Tallenna nimellä";
             this.tallennaNimelläToolStripMenuItem.Click += new System.EventHandler(this.tallennaNimelläToolStripMenuItem_Click);
@@ -159,6 +165,7 @@
             this.muokkaaToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.undoToolStripMenuItem,
             this.redoToolStripMenuItem,
+            this.toolStripSeparator3,
             this.kopioiToolStripMenuItem,
             this.leikkaaToolStripMenuItem,
             this.liitäToolStripMenuItem,
@@ -166,7 +173,7 @@
             this.valitseKaikkiToolStripMenuItem});
             this.muokkaaToolStripMenuItem.Name = "muokkaaToolStripMenuItem";
             this.muokkaaToolStripMenuItem.Size = new System.Drawing.Size(68, 20);
-            this.muokkaaToolStripMenuItem.Text = "Muokkaa";
+            this.muokkaaToolStripMenuItem.Text = "&Muokkaa";
             // 
             // undoToolStripMenuItem
             // 
@@ -231,7 +238,7 @@
             this.tekstinKorostusToolStripMenuItem});
             this.muotoileToolStripMenuItem.Name = "muotoileToolStripMenuItem";
             this.muotoileToolStripMenuItem.Size = new System.Drawing.Size(67, 20);
-            this.muotoileToolStripMenuItem.Text = "Muotoile";
+            this.muotoileToolStripMenuItem.Text = "M&uotoile";
             // 
             // kirjasinToolStripMenuItem
             // 
@@ -247,18 +254,25 @@
             this.tekstinRivitysToolStripMenuItem.Text = "Tekstin rivitys";
             this.tekstinRivitysToolStripMenuItem.Click += new System.EventHandler(this.tekstinRivitysToolStripMenuItem_Click);
             // 
+            // tekstinKorostusToolStripMenuItem
+            // 
+            this.tekstinKorostusToolStripMenuItem.Name = "tekstinKorostusToolStripMenuItem";
+            this.tekstinKorostusToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.tekstinKorostusToolStripMenuItem.Text = "Tekstin korostus";
+            this.tekstinKorostusToolStripMenuItem.Click += new System.EventHandler(this.tekstinKorostusToolStripMenuItem_Click);
+            // 
             // apuaToolStripMenuItem
             // 
             this.apuaToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.tietoaToolStripMenuItem});
             this.apuaToolStripMenuItem.Name = "apuaToolStripMenuItem";
             this.apuaToolStripMenuItem.Size = new System.Drawing.Size(47, 20);
-            this.apuaToolStripMenuItem.Text = "Apua";
+            this.apuaToolStripMenuItem.Text = "&Apua";
             // 
             // tietoaToolStripMenuItem
             // 
             this.tietoaToolStripMenuItem.Name = "tietoaToolStripMenuItem";
-            this.tietoaToolStripMenuItem.Size = new System.Drawing.Size(106, 22);
+            this.tietoaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.tietoaToolStripMenuItem.Text = "Tietoa";
             this.tietoaToolStripMenuItem.Click += new System.EventHandler(this.tietoaToolStripMenuItem_Click);
             // 
@@ -286,12 +300,20 @@
             this.printPreviewDialog1.Visible = false;
             this.printPreviewDialog1.Load += new System.EventHandler(this.printPreviewDialog1_Load);
             // 
-            // tekstinKorostusToolStripMenuItem
+            // toolStripSeparator1
             // 
-            this.tekstinKorostusToolStripMenuItem.Name = "tekstinKorostusToolStripMenuItem";
-            this.tekstinKorostusToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.tekstinKorostusToolStripMenuItem.Text = "Tekstin korostus";
-            this.tekstinKorostusToolStripMenuItem.Click += new System.EventHandler(this.tekstinKorostusToolStripMenuItem_Click);
+            this.toolStripSeparator1.Name = "toolStripSeparator1";
+            this.toolStripSeparator1.Size = new System.Drawing.Size(188, 6);
+            // 
+            // toolStripSeparator2
+            // 
+            this.toolStripSeparator2.Name = "toolStripSeparator2";
+            this.toolStripSeparator2.Size = new System.Drawing.Size(188, 6);
+            // 
+            // toolStripSeparator3
+            // 
+            this.toolStripSeparator3.Name = "toolStripSeparator3";
+            this.toolStripSeparator3.Size = new System.Drawing.Size(179, 6);
             // 
             // Form1
             // 
@@ -342,5 +364,8 @@
         private PrintPreviewDialog printPreviewDialog1;
         private FontDialog fontDialog1;
         private ToolStripMenuItem tekstinKorostusToolStripMenuItem;
+        private ToolStripSeparator toolStripSeparator1;
+        private ToolStripSeparator toolStripSeparator2;
+        private ToolStripSeparator toolStripSeparator3;
     }
 }
