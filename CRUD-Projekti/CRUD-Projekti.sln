@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SekuntiKello", "SekuntiKell
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Muistio", "Muistio\Muistio.csproj", "{EBC6CFDA-6FC1-492E-ADE2-0E676625E1F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OppilaitosAvainHenkilöt", "OppilaitosAvainHenkilöt\OppilaitosAvainHenkilöt.csproj", "{1294A475-1688-4B1C-A83F-B09EA376FF15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OppilaitosAvainHenkilöt", "OppilaitosAvainHenkilöt\OppilaitosAvainHenkilöt.csproj", "{1294A475-1688-4B1C-A83F-B09EA376FF15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kahvio", "Kahvio\Kahvio.csproj", "{9BFD2145-8459-4A41-B600-57884E3B9D7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{1294A475-1688-4B1C-A83F-B09EA376FF15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1294A475-1688-4B1C-A83F-B09EA376FF15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1294A475-1688-4B1C-A83F-B09EA376FF15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BFD2145-8459-4A41-B600-57884E3B9D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BFD2145-8459-4A41-B600-57884E3B9D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BFD2145-8459-4A41-B600-57884E3B9D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BFD2145-8459-4A41-B600-57884E3B9D7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
