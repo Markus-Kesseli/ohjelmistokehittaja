@@ -39,7 +39,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Muistio", "Muistio\Muistio.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OppilaitosAvainHenkilöt", "OppilaitosAvainHenkilöt\OppilaitosAvainHenkilöt.csproj", "{1294A475-1688-4B1C-A83F-B09EA376FF15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kahvio", "Kahvio\Kahvio.csproj", "{9BFD2145-8459-4A41-B600-57884E3B9D7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kahvio", "Kahvio\Kahvio.csproj", "{9BFD2145-8459-4A41-B600-57884E3B9D7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
