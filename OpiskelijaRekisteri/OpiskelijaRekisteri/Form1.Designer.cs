@@ -75,6 +75,7 @@
             this.tallennaBT.TabIndex = 2;
             this.tallennaBT.Text = "Tallenna";
             this.tallennaBT.UseVisualStyleBackColor = true;
+            this.tallennaBT.Click += new System.EventHandler(this.tallennaBT_Click);
             // 
             // paivitaBT
             // 
@@ -84,6 +85,7 @@
             this.paivitaBT.TabIndex = 3;
             this.paivitaBT.Text = "Päivitä";
             this.paivitaBT.UseVisualStyleBackColor = true;
+            this.paivitaBT.Click += new System.EventHandler(this.paivitaBT_Click);
             // 
             // poistaBT
             // 
@@ -93,6 +95,7 @@
             this.poistaBT.TabIndex = 4;
             this.poistaBT.Text = "Poista";
             this.poistaBT.UseVisualStyleBackColor = true;
+            this.poistaBT.Click += new System.EventHandler(this.poistaBT_Click);
             // 
             // idLB
             // 
