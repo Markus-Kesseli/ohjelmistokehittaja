@@ -19,7 +19,7 @@ namespace OpiskelijaRekisteri
 
         public DataTable asiakaslista()
         {
-            MySqlCommand komento = new MySqlCommand("SELECT oid, Concat(etunimi, ' ', sukunimi) AS Kokonimi FROM yhteystiedot", yhteys.otaYhteys());
+            MySqlCommand komento = new MySqlCommand("SELECT oid, Concat(etunimi, ' ', sukunimi) AS kokonimi FROM yhteystiedot", yhteys.otaYhteys());
             MySqlDataAdapter adapter = new MySqlDataAdapter();
             DataTable taulu = new DataTable();
 
@@ -34,7 +34,7 @@ namespace OpiskelijaRekisteri
             String salattu = Encrypt(pass);
             MySqlCommand komento = new MySqlCommand();
             string lisayskysely = "INSERT INTO yhteystiedot " + "(etunimi, sukunimi, puhelin, sahkoposti, opiskelijanumero) " +
-                "VALUE (@enm, @snm, @ouh, @eml, @ono, @usr, @ssa); ";
+                "VALUES (@enm, @snm, @puh, @eml, @ono); ";
             komento.CommandText = lisayskysely;
             komento.Connection = yhteys.otaYhteys();
 
@@ -77,9 +77,9 @@ namespace OpiskelijaRekisteri
         public bool muokkaaOpiskelijaa(int oid, String enimi, String snimi, String puh, String email, int onro)
         {
             MySqlCommand komento = new MySqlCommand();
-            String paivityskysely = "UPDATE 'yhteystiedot' SET 'Etunimi' = @enm," +
-                "'Sukunimi' = @snm, 'puhelin' = @puh, 'sahkoposti' = @eml, 'opiskelijanumero' = @ono" +
-                "WHERE oid = @oid";
+            String paivityskysely = "UPDATE yhteystiedot SET etunimi = @enm," +
+                "sukunimi = @snm, puhelin = @puh, sahkoposti = @eml, opiskelijanumero = @ono" +
+                " WHERE oid = @oid";
             komento.CommandText = paivityskysely;
             komento.Connection = yhteys.otaYhteys();
 
