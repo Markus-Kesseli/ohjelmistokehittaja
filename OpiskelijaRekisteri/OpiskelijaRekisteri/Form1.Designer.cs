@@ -222,7 +222,7 @@
             this.Controls.Add(this.tyhjennaBT);
             this.Controls.Add(this.tietotauluDG);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "OppilasRekisterin Ylläpito";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.tietotauluDG)).EndInit();
             this.ResumeLayout(false);
